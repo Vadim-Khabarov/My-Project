@@ -1,1 +1,4 @@
-Public class main {}
+Public class main {
+	public static main{
+	}
+}
